@@ -1,0 +1,9 @@
+======= Email OTP login ===
+=======How to use =====
+1) Clone Project
+2) Create databse called "Github_type_OTP_Login_System" and import SQL file which is in DBFile folder.
+3) Run Following URL:http://localhost/Github_type_OTP_Login_System/
+
+=====Special Feature====
+1) No need to button clicking for OTP Verification
+2) Email sent via local machine so you can set up some functionality for local mail and get email by localhost. 
